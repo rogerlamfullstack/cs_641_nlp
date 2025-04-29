@@ -1,0 +1,9 @@
+nltk
+spacy
+transformers>=4.39.3
+torch
+spacy
+datasets
+scikit-learn
+accelerate>=0.27.2
+numpy==1.26.4
